@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MontaEllis/count.svg" />
+</p>
 
 - 🔭 I’m Kangneng Zhou from University of Science & Technology Beijing
 - 🌱 I’m interested in Generative Models, Neural Rendering, Computer Graphics, and Medical Image Processing

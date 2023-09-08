@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/MontaEllis/count.svg" />
 </p>
 
-- 🔭 I’m Kangneng Zhou from University of Science & Technology Beijing
+- 🔭 I’m Kangneng Zhou from Nankai University
 - 🌱 I’m interested in Generative Models, Neural Rendering, Computer Graphics, and Medical Image Processing
 - 👯 I’m looking to collaborate on VR, AR and Medical Application
 - 📫 How to reach me: elliszkn@163.com
